@@ -32,7 +32,7 @@ VBA stands for Visual Basics for Applications. It is a programming language for 
 
 ## Submission
 
-* I have uploaded the following to Github:
+* I have uploaded the following to the VBA Stocks folder:
 
   * A screen shot for each year of the results on the Multi Year Stock Data.
 
